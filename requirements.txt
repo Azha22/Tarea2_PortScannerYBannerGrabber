@@ -1,0 +1,1 @@
+El còdigo esta en Python y utiliza la librerìa socket
